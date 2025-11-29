@@ -1,0 +1,25 @@
+/* 3. Apply to whole page */
+* {
+    padding: 50px;
+    background-color: #e8eae8;
+    color: #5d665b;
+}
+
+/* 4. Assign body margins */
+body {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 120px;
+    margin-right: 50px;
+}
+
+/* 5. Set text fonts */
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+}
+
+/* 6. Set font size and line height */
+body {
+    font-size: small;
+    line-height: 180%;
+}
